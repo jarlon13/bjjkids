@@ -16,9 +16,9 @@ body {
 header {
     background-color: #333;
     padding: 10px 0;
-    position: sticky;
+    position: sticky; /* scroll along with its container*/
     top: 0;
-    z-index: 1000;
+    z-index: 1000; /*z index ensures header stays above other content*/
 }
 
 nav ul {
@@ -39,6 +39,7 @@ nav ul li a {
     font-size: 18px;
 }
 
+/*images home page with flexbox code*/
 .images-section {
     display: flex;
     flex-wrap: wrap;
@@ -56,14 +57,15 @@ nav ul li a {
     flex: 1; /* Ensures this section takes up remaining space if needed */
 }
 
+/*section with the BJJ information on the index page*/
 .description-section h2 {
     text-align: center;
     margin-top: 0;
-    color: blue;
+    color: black;
 }
 
 h2{
-    color: blue;
+    color: #f4f4f4;
 }
 
 .description-section p {
@@ -71,6 +73,7 @@ h2{
     margin: 10px 0;
 }
 
+/* exported jpeg from the internet.*/
 #signup{
     background-image: url("https://scontent-dub4-1.xx.fbcdn.net/v/t1.6435-9/201134268_4379064012105913_4481886980233094998_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=Og_AqzF2KzIQ7kNvgFEdKTu&_nc_ht=scontent-dub4-1.xx&cb_e2o_trans=t&oh=00_AYAf9aPs0lq1jr_8WT5U0R7KHhNdqiY13G3Dk7cGWscGvQ&oe=66A28844");
     background-size: cover;
@@ -79,7 +82,7 @@ h2{
     flex-grow: 1;
 
 }
-
+/*styling input form*/
 .text-input{
     background: transparent;
     color:#fafafa;
@@ -91,10 +94,12 @@ h2{
     padding: 0 5px;
 }
 
+/*changing color of the label for the form input*/
 label{
-    color: blue;
+    color: #f4f4f4;
 }
 
+/*underlines menu/signup page*/
 .active{
     border-bottom: solid #f4f4f4;
 }
@@ -155,7 +160,6 @@ footer {
         max-width: 400px;
         top: 150px;
         left: 10%;
-        position: absolute;
     }
 }
 
