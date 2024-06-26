@@ -64,8 +64,25 @@ nav ul li a {
     color: black;
 }
 
+h1{
+    text-align: center;
+}
+
 h2{
     color: #f4f4f4;
+}
+
+/*changing only h2 for the home page*/
+.join-us h2{
+    color: black
+}
+
+.benefits-for-kids{
+    background-color: #f4f4f4;
+}
+
+.join-us{
+    background-color: #f4f4f4;
 }
 
 .description-section p {
