@@ -1,6 +1,8 @@
 BJJ Club for Kids
 Welcome to the BJJ Club for Kids! Our gym specializes in martial arts and self-defense training specifically tailored for children. At BJJ Club, we focus on teaching honor, good values, and practical skills to help your child stay safe and confident in any situation.
 
+![Webpage](/assets/images/Screenshot-am-i-responsive.jpg)
+
 About Us
 The BJJ Club for Kids is dedicated to fostering a supportive and empowering environment where children can thrive. Our experienced instructors are passionate about teaching Brazilian Jiu-Jitsu (BJJ) and instilling lifelong values in our young students. We believe that martial arts are not just about physical training but also about mental and emotional growth.
 
