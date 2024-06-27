@@ -6,14 +6,14 @@ Welcome to the BJJ Club for Kids! Our gym specializes in martial arts and self-d
 https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
 
 
-<h2>Features</h2>
+<h2>USER EXPERIENCE (UX)</h2>
     <ul>
-<li>Navigatioon
+<li>Navigation
         <ul>
-        <li> Featured at the top left side of the page, the navigation shows 2 menus. </li>
+        <li> Featured at the top right hand side of the page, the navigation shows 3 menus. </li>
         <li> Home menu which is the main page.</li>
-        <li> Sign up menu that brings you to the Sign up page to be part of the BJJ Club for kids.</li>
-        <li> The navigation clearly tells the user name home menu and sign up menu making it really easy to navigate in the both pages.  </li>
+        <li>  Check out the gallery menu to catch epic snapshots of our little ninjas in action, mastering martial arts." </li>
+        <li> Sign up menu that brings you to the Sign up page to be part of the BJJ Club for kids. </li>
         </ul>
     </li>
 </ul>
@@ -62,7 +62,42 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
 
 ![webpage](/assets/images/Screenshot-map-location.jpg)
 
-<li> Testing
+
+
+
+<h2>Tecnologies used</h2>
+
+<li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CSS">CSS3</a></li>
+
+
+<h2>Frameworks, Libraries & Programs Used</h2>
+
+<li>Git pod
+        <ul>
+        <li> To write the codes </li>
+        </ul>
+</li>
+<li>Git 
+    <ul>
+    <li> For version control </li>
+    </ul>
+</li>
+<li>Github
+    <ul>
+    <li>Deployment of the website and storing the files online.</li>
+    </ul>
+</li>
+<li>Am I responsive
+    <ul>
+    <li>Mockup picture for the README file.</li>
+    </ul>
+
+<h2>Features Left to Implement</h2>
+<li>Updated gallery with additional images.</li>
+
+<h2>Testing</h2>
+<li> Manual testing
         <ul> 
             <li>I have tested and this page works in different browser: Chrome , Safari , Edge </li>
             <li>I confirm that this project is responsive, looks good and function on all standard screen sizes , using the devtools device toolbar.
@@ -82,29 +117,40 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
    <li> Removing the starting / fixed the problem.</li>
 </ul>
 
+<h2>Validation Results </h2>
+<li> <a href="https://validator.w3.org/">The W3C Markup Validator</a></li>
 
+![Webpage](/assets/images/gallery/html-validator.png)
 
+<li> <a href="https://jigsaw.w3.org/css-validator/">W3C CSS Validator</a></li>
 
+![Webpage](/assets/images/gallery/CSS-VALIDATOR.png)
 
+<h2>Lighthouse Report </h2>
 
-About Us
-The BJJ Club for Kids is dedicated to fostering a supportive and empowering environment where children can thrive. Our experienced instructors are passionate about teaching Brazilian Jiu-Jitsu (BJJ) and instilling lifelong values in our young students. We believe that martial arts are not just about physical training but also about mental and emotional growth.
+<h2>Deployment and local development </h2>
 
-Our Philosophy
-We emphasize the importance of:
+<h3>GitHub Pages </h3>
+GitHub Pages used to deploy live version of the website.
+<li> Log in to GitHub and locate <a href="https://github.com/jarlon13/bjjkids">https://github.com/jarlon13/bjjkids</a> </li>
+<li>At the top of the Repository(not the main navigation) locate "Settings" button on the menu. </li>
+<li>Scroll down the Settings page until you locate "GitHub Pages".</li>
+<li>Under "Source", click the dropdown menu "None" and select "Main" and click "Save".</li>
+<li> The page will automatically refresh.</li>
+<li>Scroll back to locate the now-published site <a href="https://jarlon13.github.io/bjjkids/">https://jarlon13.github.io/bjjkids/</a>   in the "GitHub Pages" section. </li>
 
-Respect: Teaching kids to respect themselves and others.
-Discipline: Encouraging self-control and focus both on and off the mat.
-Perseverance: Helping children develop a never-give-up attitude.
-Teamwork: Promoting collaboration and building strong friendships.
-Benefits of Brazilian Jiu-Jitsu for Kids
-Self-Defense Skills: Our program equips children with practical techniques to protect themselves, boosting their confidence and safety.
-Physical Fitness: BJJ enhances strength, flexibility, and overall health, promoting a lifelong commitment to fitness.
-Mental Growth: Kids learn problem-solving skills and strategic thinking through the practice of BJJ.
-Emotional Development: Our supportive environment helps children build resilience, handle stress, and develop a positive mindset.
-Fun and Engaging: Our classes are designed to be enjoyable, incorporating games and activities to keep kids motivated and excited about learning.
-Join Us!
-Enroll your child in our BJJ for Kids program and watch them grow into confident, respectful, and healthy individuals. We offer a safe and encouraging atmosphere where children can develop valuable life skills while having fun. Contact us today to learn more and schedule a free trial class!
+<h2>Forking the GitHub Repository </h2>
 
-For more information, visit our website.
+By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
 
+<li>Log in to GitHub and locate [GitHub Repository bjjkids]<a href="https://github.com/jarlon13/bjjkids">https://github.com/jarlon13/bjjkids</a> </li>
+<li>At the top of the Repository(under the main navigation) locate "Fork" button.</li>
+<li>Now you should have a copy of the original repository in your GitHub account.</li>
+
+<h2>Credits</h2>
+<li>Understanding the concept of flexbox <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS-TRICKS</a></li>
+<li>To find and try different tags <a href="https://www.w3schools.com/css/css3_flexbox_items.asp">W3SCHOOLS</a></li>
+<li>Gracie barra BJJ Gym google maps locations <a href="https://www.gbdublin.com/">Graciebarra</a>
+
+<h2>Acknowledgements </h2>
+<li> I would like to express my gratitude to my mentor, Mitko Bachvarov, for his invaluable feedback during the tutor session, as well as for the helpful links and suggestions on how to improve my webpage. </li>
