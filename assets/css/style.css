@@ -69,8 +69,8 @@ h1{
 }
 
 h2{
-    color: #000000;
-    background: antiquewhite;
+    color: #fafafa;
+    background: #262625;
 }
 
 /*changing only h2 for the home page*/
@@ -121,9 +121,9 @@ h2{
 
 /*changing color of the label for the form input*/
 label{
-    color: black;
+    color: #f4f4f4;
     font-weight: bold;
-    background: antiquewhite;
+    background: #262625;
 }
 
 /*underlines menu/signup page*/
