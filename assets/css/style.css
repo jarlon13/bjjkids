@@ -14,7 +14,7 @@ body {
 }
 
 p {
-    word-spacing: 2px;
+    word-spacing: 2px; /*adding space between every word.*/
   }
 
 header {
@@ -88,10 +88,12 @@ h2{
 
 .benefits-for-kids{
     background-color: #f4f4f4;
+    padding-left: 10px;
 }
 
 .join-us{
     background-color: #f4f4f4;
+    padding-left: 10px;
 }
 
 .description-section p {
