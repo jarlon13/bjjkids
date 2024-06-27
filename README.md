@@ -3,7 +3,88 @@ Welcome to the BJJ Club for Kids! Our gym specializes in martial arts and self-d
 
 ![Webpage](/assets/images/Screenshot-am-i-responsive.jpg)
 
-Features
+https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
+
+
+<h2>Features</h2>
+    <ul>
+<li>Navigatioon
+        <ul>
+        <li> Featured at the top left side of the page, the navigation shows 2 menus. </li>
+        <li> Home menu which is the main page.</li>
+        <li> Sign up menu that brings you to the Sign up page to be part of the BJJ Club for kids.</li>
+        <li> The navigation clearly tells the user name home menu and sign up menu making it really easy to navigate in the both pages.  </li>
+        </ul>
+    </li>
+</ul>
+
+ ![Webpage](/assets/images/Screenshot-home-menu.jpg) 
+
+<li> The Header / The welcome message
+        <ul>
+        <li>The header shows Welcome to the BJJ Club for KIDS with 2 font awesome icon jumping of excitment !  </li> 
+        <li> Inside the h1 a welcoming message followed by 3 pictures of kids practing the martial arts and having fun ! </li>
+        </ul>
+    </li>
+</ul>
+
+ ![Webpage](/assets/images/screen-welcome-club.jpg) 
+
+<li>About Brazilian Jiu-Jitsu (BJJ)
+        <ul>
+        <li> About us explain to the readers about the BJJ and the benefits this could bring to the kids </li>
+        <li> This section shows the importance of the self defense martial arts for the little ones  </li>
+        </ul>
+    </li>
+</ul>
+
+![webpage](assets/images/Screenshot-about-bjj.jpg)
+
+ <li>The Signup Form
+        <ul>
+        <li> The sign up section has a form to collect details from parents so they can sign up to the Coding Club</li>
+        <li>The form collects child's name , parent's name , full name and email address. </li>
+        <li> The sign up form is  a valuable to the user as it fives them the ability to sign up to join the BJJ Club for kids </li>
+        </ul>
+    </li>
+</ul>
+
+![webpage](/assets/images/Screenshot-signup-page.jpg)
+
+<li> The Location section
+        <ul> 
+    <li>In the sign up page you can find a link to the google maps showing where the BJJ Club for kids is located 
+    </li>
+    <!--<li>TEST 2</li> -->
+        </ul>
+    </li>
+</ul>
+
+![webpage](/assets/images/Screenshot-map-location.jpg)
+
+<li> Testing
+        <ul> 
+            <li>I have tested and this page works in different browser: Chrome , Safari , Edge </li>
+            <li>I confirm that this project is responsive, looks good and function on all standard screen sizes , using the devtools device toolbar.
+            </li>        
+        </ul>
+     </li>
+<li> Bugs
+    <ul> 
+        <li> When I deployed my project to the Git hub pages , I have found that my website was only working with the html codes, my css wasn't connecting to the correct file </li>
+        <li> I found that when I deployed the project I had used absolute file paths in my code. </li>
+        <br>
+    </ul>
+</li>
+
+![Webpage](/assets/images/Screenshot-wrong-path.jpg)
+<ul>
+   <li> Removing the starting / fixed the problem.</li>
+</ul>
+
+
+
+
 
 
 About Us
