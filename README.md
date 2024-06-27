@@ -73,22 +73,22 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
 
 <h2>Frameworks, Libraries & Programs Used</h2>
 
-<li>Git pod
+<li><a href="https://www.gitpod.io/">Git pod</a>
         <ul>
         <li> To write the codes </li>
         </ul>
 </li>
-<li>Git 
+<li><a href="https://git-scm.com/">Git</a> 
     <ul>
     <li> For version control </li>
     </ul>
 </li>
-<li>Github
+<li><a href="https://github.com/">Github</a>
     <ul>
     <li>Deployment of the website and storing the files online.</li>
     </ul>
 </li>
-<li>Am I responsive
+<li><a href="https://ui.dev/amiresponsive">Am I responsive</a>
     <ul>
     <li>Mockup picture for the README file.</li>
     </ul>
