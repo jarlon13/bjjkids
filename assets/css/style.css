@@ -195,12 +195,15 @@ label{
     font-size: 100%;
     background-color: rgb(17, 16, 14);
     color: #f4f4f4;
+    margin:15px;
+    
 }
 
 /*added hover to the join button*/
 .join-button:hover{
     background-color: #d68b00;
     color:#454b1b
+    
 }
 
 footer {
