@@ -102,6 +102,14 @@ h2{
     margin: 10px 0;
 }
 
+
+
+
+
+
+
+
+
 /* exported jpeg from the internet.*/
 #signup{
     background-image: url("https://images.unsplash.com/photo-1585537884613-1a9bcd024983?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
@@ -134,6 +142,25 @@ height: 300;
 }
 
 */
+
+/*editing gallery page */
+.gallery {
+    display: flex;
+    gap: 2px;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.gallery-item {
+    flex: 1 1 calc(33.33% - 20px);
+    margin: 10px;
+    max-width: calc(33.33% - 20px);
+    height: auto;
+    box-sizing: border-box;
+}
+
+
+
 
 
 /*changing color of the label for the form input*/
@@ -195,6 +222,10 @@ footer ul {
     .images-section img {
         width: 100%;
     }
+
+    .images-section-2 img{
+        width: 39%;
+    }
 }
 
 @media (min-width: 768px) {
@@ -210,9 +241,17 @@ footer ul {
         width: 50%;
     }
 
+    .images-section-2 img{
+        width: 33%;
+    }
+
     /* pictures of the home page.*/
     .images-section img:nth-child(3) {
         width: 100%;
+    }
+
+    .images-section-2 img{
+        width: 30%;
     }
 
     #signup {
@@ -225,14 +264,29 @@ footer ul {
         top: 150px;
         left: 10%;
     }
+
+
+
+    .gallery img {
+        flex: 1 1 calc(50% - 20px); /* Two images per row on tablets */
+        max-width: calc(50% - 20px);
+
 }
 
 @media (max-width: 480px) {
     .images-section img {
         width: 100%;
     }
+
+    .images-section-2 img{
+        width: 30%;
+    }
 }
+
+
+
 
 * {
     box-sizing: inherit;
+}
 }
