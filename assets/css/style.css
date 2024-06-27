@@ -181,11 +181,11 @@ footer ul {
 /* added social-media icons on the sign up page.*/
 #social-media{
     text-align: center;
-    padding: 15px 0 ;
+    padding: 5px 5px 5px 5px;
     display: flex;
     justify-content: space-around;
     list-style-type: none;
-    font-size: 2em;
+    font-size: 15px;
 }
 
 
