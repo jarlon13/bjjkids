@@ -110,7 +110,7 @@ h2{
     padding: 200px 10% 0 10%;
     flex-grow: 1;
     display: flex; 
-   /* justify-content: center;  to center the input form */
+   /* justify-content: center;  to center the input form if desires  */
    /* align-items: center;  to center the input form */
 
 }
@@ -127,6 +127,10 @@ h2{
 }
 
 /* map */
+#map{
+width: 100%;
+height: 300;
+}
 
 
 /*changing color of the label for the form input*/
