@@ -1,7 +1,7 @@
 BJJ Club for Kids
 Welcome to the BJJ Club for Kids! Our gym specializes in martial arts and self-defense training specifically tailored for children. At BJJ Club, we focus on teaching honor, good values, and practical skills to help your child stay safe and confident in any situation.
 
-![Webpage](/assets/images/Screenshot-am-i-responsive.jpg)
+![Webpage](/assets/images/am-i-responsive.jpg)
 
 https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
 
@@ -18,17 +18,17 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
     </li>
 </ul>
 
- ![Webpage](/assets/images/Screenshot-home-menu.jpg) 
+ ![Webpage](/assets/images/home-sign-up-gallery.jpg) 
 
 <li> The Header / The welcome message
         <ul>
         <li>The header shows Welcome to the BJJ Club for KIDS with 2 font awesome icon jumping of excitment !  </li> 
-        <li> Inside the h1 a welcoming message followed by 3 pictures of kids practing the martial arts and having fun ! </li>
+        <li> Below the Welcome to Brazilian Jiu-Jitsu there are 3 pictures of kids practing the martial arts and having fun  ! </li>
         </ul>
     </li>
 </ul>
 
- ![Webpage](/assets/images/screen-welcome-club.jpg) 
+ ![Webpage](/assets/images/welcome-to-bjj-club.jpg) 
 
 <li>About Brazilian Jiu-Jitsu (BJJ)
         <ul>
@@ -49,7 +49,7 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
     </li>
 </ul>
 
-![webpage](/assets/images/Screenshot-signup-page.jpg)
+![webpage](/assets/images/signup-page.jpg)
 
 <li> The Location section
         <ul> 
@@ -108,5 +108,3 @@ Enroll your child in our BJJ for Kids program and watch them grow into confident
 
 For more information, visit our website.
 
-
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
