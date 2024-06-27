@@ -69,7 +69,8 @@ h1{
 }
 
 h2{
-    color: #f4f4f4;
+    color: #000000;
+    background: antiquewhite;
 }
 
 /*changing only h2 for the home page*/
@@ -93,15 +94,19 @@ h2{
 /* exported jpeg from the internet.*/
 #signup{
     background-image: url("https://images.unsplash.com/photo-1585537884613-1a9bcd024983?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    opacity: 0.90;
     background-size: cover;
     background-position: 75%;
     padding: 200px 10% 0 10%;
     flex-grow: 1;
+    display: flex; 
+   /* justify-content: center;  to center the input form */
+   /* align-items: center;  to center the input form */
 
 }
 /*styling input form*/
 .text-input{
-    background: transparent;
+    background:transparent;
     color:#fafafa;
     width: 100%;
     height: 25px;
@@ -116,7 +121,9 @@ h2{
 
 /*changing color of the label for the form input*/
 label{
-    color: #f4f4f4;
+    color: black;
+    font-weight: bold;
+    background: antiquewhite;
 }
 
 /*underlines menu/signup page*/
@@ -134,6 +141,11 @@ label{
     color: #f4f4f4;
 }
 
+/*added hover to the join button*/
+.join-button:hover{
+    background-color: #d68b00;
+    color:#454b1b
+}
 
 footer {
     background-color: #333;
