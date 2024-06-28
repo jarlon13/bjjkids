@@ -1,9 +1,15 @@
-BJJ Club for Kids
-Welcome to the BJJ Club for Kids! Our gym specializes in martial arts and self-defense training specifically tailored for children. At BJJ Club, we focus on teaching honor, good values, and practical skills to help your child stay safe and confident in any situation.
+<h1>Brazilian Jiu-Jitsu Club for Kids </h1>
+Welcome to the BJJ Club for Kids! Our website is designed to introduce martial arts and self-defense training specifically tailored for children. At BJJ Club, we focus on teaching honor, good values, and practical skills to help your child stay safe and confident in any situation.
 
-![Webpage](/assets/images/am-i-responsive.jpg)
+<br>
 
-https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
+![AmIresponsive](/assets/images/am-i-responsive.jpg)
+
+
+<a href="https://jarlon13.github.io/bjjkids/">View BJJ Club for kids live project here></a>
+
+
+
 
 
 <h2>USER EXPERIENCE (UX)</h2>
@@ -18,7 +24,7 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
     </li>
 </ul>
 
- ![Webpage](/assets/images/home-sign-up-gallery.jpg) 
+ ![Gallery](/assets/images/home-sign-up-gallery.jpg) 
 
 <li> The Header / The welcome message
         <ul>
@@ -49,7 +55,7 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
     </li>
 </ul>
 
-![webpage](/assets/images/signup-page.jpg)
+![Signup](/assets/images/signup-page.jpg)
 
 <li> The Location section
         <ul> 
@@ -60,7 +66,7 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
     </li>
 </ul>
 
-![webpage](/assets/images/Screenshot-map-location.jpg)
+![MAP](/assets/images/Screenshot-map-location.jpg)
 
 
 
@@ -88,13 +94,14 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
     <li>Deployment of the website and storing the files online.</li>
     </ul>
 </li>
-<li><a href="https://ui.dev/amiresponsive">Am I responsive</a>
+<li><a href="https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html">Am I responsive</a>
     <ul>
     <li>Mockup picture for the README file.</li>
     </ul>
 
 <h2>Features Left to Implement</h2>
-<li>Updated gallery with additional images.</li>
+<li>Update the Gallery with Additional Images: Add more images to the gallery to provide a richer visual experience and showcase more aspects of our Brazilian Jiu-Jitsu classes for kids.</li>
+<li>Improve best practices on the sign-up page.</li>
 
 <h2>Testing</h2>
 <li> Manual testing
@@ -112,7 +119,7 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
     </ul>
 </li>
 
-![Webpage](/assets/images/Screenshot-wrong-path.jpg)
+![Fixingbugs](/assets/images/Screenshot-wrong-path.jpg)
 <ul>
    <li> Removing the starting / fixed the problem.</li>
 </ul>
@@ -120,30 +127,49 @@ https://ui.dev/amiresponsive?url=https://jarlon13.github.io/bjjkids/index.html
 <h2>Validation Results </h2>
 <li> <a href="https://validator.w3.org/">The W3C Markup Validator</a></li>
 
-![Webpage](/assets/images/gallery/html-validator.png)
+![HTML-Validator](/assets/images/gallery/html-validator.png)
 
 <li> <a href="https://jigsaw.w3.org/css-validator/">W3C CSS Validator</a></li>
 
-![Webpage](/assets/images/gallery/CSS-VALIDATOR.png)
+![CSS-Validator](/assets/images/gallery/CSS-VALIDATOR.png)
 
 <h2>Lighthouse Report </h2>
+    <li>Home</li>
+    <br>
+
+![Main](/assets/images/gallery/lighthouse-main-page.png)
+
+   <li>Gallery</li>
+    <br>
+
+![Gallery-page](/assets/images/gallery/lighthouse-gallery-page.png)
+
+<li>Sign up</li>
+<br>
+
+![Signup-page](/assets/images/gallery/signup-page.png)
+
+
+
+
+
 
 <h2>Deployment and local development </h2>
 
 <h3>GitHub Pages </h3>
 GitHub Pages used to deploy live version of the website.
-<li> Log in to GitHub and locate <a href="https://github.com/jarlon13/bjjkids">https://github.com/jarlon13/bjjkids</a> </li>
+<li> Log in to GitHub and locate <a href="https://github.com/jarlon13/bjjkids ">https://github.com/jarlon13/bjjkids</a> </li>
 <li>At the top of the Repository(not the main navigation) locate "Settings" button on the menu. </li>
 <li>Scroll down the Settings page until you locate "GitHub Pages".</li>
 <li>Under "Source", click the dropdown menu "None" and select "Main" and click "Save".</li>
 <li> The page will automatically refresh.</li>
-<li>Scroll back to locate the now-published site <a href="https://jarlon13.github.io/bjjkids/">https://jarlon13.github.io/bjjkids/</a>   in the "GitHub Pages" section. </li>
+<li>Scroll back to locate the now-published site <a href="https://jarlon13.github.io/bjjkids/"> https://jarlon13.github.io/bjjkids/</a>   in the "GitHub Pages" section. </li>
 
 <h2>Forking the GitHub Repository </h2>
 
 By forking the repository, we make a copy of the original repository on our GitHub account to view and change without affecting the original repository by using these steps:
 
-<li>Log in to GitHub and locate [GitHub Repository bjjkids]<a href="https://github.com/jarlon13/bjjkids">https://github.com/jarlon13/bjjkids</a> </li>
+<li>Log in to GitHub and locate [ GitHub Repository bjjkids ] <a href="https://github.com/jarlon13/bjjkids">https://github.com/jarlon13/bjjkids</a> </li>
 <li>At the top of the Repository(under the main navigation) locate "Fork" button.</li>
 <li>Now you should have a copy of the original repository in your GitHub account.</li>
 
@@ -151,7 +177,8 @@ By forking the repository, we make a copy of the original repository on our GitH
 <li>Understanding the concept of flexbox <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS-TRICKS</a></li>
 <li>To find and try different tags <a href="https://www.w3schools.com/css/css3_flexbox_items.asp">W3SCHOOLS</a></li>
 <li>Gracie barra BJJ Gym google maps locations <a href="https://www.gbdublin.com/">Graciebarra</a>
-<li> Source for high-quality visuals and images.<a href="https://images.unsplash.com/photo-1585537884613-1a9bcd024983?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==">https://unsplash.com/ </a> </li>
+<li> Source for high-quality visuals and images.<a href="https://images.unsplash.com/photo-1585537884613-1a9bcd024983?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA=="> Unsplash </a> </li>
+<li> The README template provided by Code Institute (template) <a href="https://github.com/Code-Institute-Solutions/readme-template">ci-readme-template</a></li>
 
 <h2>Acknowledgements </h2>
 <li> I would like to express my gratitude to my mentor, Mitko Bachvarov, for his invaluable feedback during the tutor session, as well as for the helpful links and suggestions on how to improve my webpage. </li>
