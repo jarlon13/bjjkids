@@ -151,6 +151,7 @@ By forking the repository, we make a copy of the original repository on our GitH
 <li>Understanding the concept of flexbox <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">CSS-TRICKS</a></li>
 <li>To find and try different tags <a href="https://www.w3schools.com/css/css3_flexbox_items.asp">W3SCHOOLS</a></li>
 <li>Gracie barra BJJ Gym google maps locations <a href="https://www.gbdublin.com/">Graciebarra</a>
+<li> Source for high-quality visuals and images.<a href="https://images.unsplash.com/photo-1585537884613-1a9bcd024983?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA==">https://unsplash.com/ </a> </li>
 
 <h2>Acknowledgements </h2>
 <li> I would like to express my gratitude to my mentor, Mitko Bachvarov, for his invaluable feedback during the tutor session, as well as for the helpful links and suggestions on how to improve my webpage. </li>
